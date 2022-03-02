@@ -1,5 +1,5 @@
-# Um projeto de Criação e desenvolvimento de uma Blockchain e Criptomoeda
+Um projeto de Criação e desenvolvimento de uma Blockchain e Criptomoeda
 
-# Todo o projeto em Python 
+ Todo o projeto em Python 
 
-# proximo passo NFT´S 
+ proximo passo NFT´S 
